@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muatasem 👋
 
-<!--
-**Muat01/Muat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MEng Candidate in Industrial Engineering | Telkom University**
+Smart Manufacturing · Digital Twin · Data Analytics
 
-Here are some ideas to get you started:
+I'm passionate about using real-time data and AI to optimize
+industrial systems and improve service quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Focus Areas
+- Smart Manufacturing & Smart Factory systems
+- Digital Twin technology
+- Predictive Maintenance
+- Production data analytics & dashboards
+
+## 🛠 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+## 📌 Featured Projects
+- **[SUTM Predictive Maintenance](https://github.com/Muat01/SUTM-Predictive-Maintenance)**: AI-powered predictive maintenance dashboard for inspection analysis
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muatasem-hadi)
