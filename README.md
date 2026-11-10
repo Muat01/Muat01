@@ -23,6 +23,8 @@ industrial systems and improve service quality.
 ## Featured Projects
 - **[SUTM Predictive Maintenance Dashboard](https://github.com/Muat01/sutm-predictive-maintenance-dashboard)**: Streamlit dashboard for risk scoring and maintenance prioritization of medium-voltage overhead lines
 - **[Production Line Simulation (SimPy)](https://github.com/Muat01/production-line-simulation-simpy)**: Discrete-event simulation comparing bottleneck, buffer and predictive-maintenance scenarios
+- **[SPC & OEE Quality Dashboard](https://github.com/Muat01/spc-oee-quality-dashboard)**: Control charts with Western Electric rules, process capability (Cp/Cpk/Pp/Ppk) and OEE loss analysis, built on simulated data
+- **[Asset Health Digital Twin](https://github.com/Muat01/asset-health-digital-twin)**: Health-index failure model inside a SimPy production line comparing four maintenance policies; condition-based PM gave +12.7% throughput and −28% cost per good part vs run-to-failure (simulated data)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muatasem-hadi)
