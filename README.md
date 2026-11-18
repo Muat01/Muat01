@@ -12,6 +12,7 @@ I build the tools an improvement project actually needs: a discrete-event model 
 
 | Project | What it does | Stack | Tests |
 |---|---|---|---|
+| **[Factory Carbon to CBAM](https://github.com/Muat01/factory-carbon-cbam)** · [live](https://factory-carbon-cbam.streamlit.app/) | Cycle times, scrap and idle power become a product carbon footprint, then an EU CBAM certificate bill, then a re-ranked improvement backlog. The headline 2.5% phase-in applies to the benchmark, not to your emissions: this plant is liable for 44% of its own in year one. A carbon border price flips two efficiency projects from cost to investment. | Pandas · Plotly · Streamlit | 123 |
 | **[Production Scheduling Copilot](https://github.com/Muat01/production-scheduling-copilot)** · [live](https://muat01.github.io/production-scheduling-copilot/) | Plain-language shop-floor events → CP-SAT re-optimisation → independent feasibility checker → explanation. Matches the published optimum on 10/10 classic benchmarks; cuts weighted tardiness 77% against the best dispatching rule. | OR-Tools · Streamlit · JS | 46 |
 | **[Asset Health Digital Twin](https://github.com/Muat01/asset-health-digital-twin)** | A gamma-process health index drives each machine's failure rate inside a SimPy line, so RTF / TBM / CBM / RBM maintenance policies compete on throughput and cost per good part. CBM: +12.7% throughput, −28% cost/part, −77% failures. | SimPy · Plotly · Streamlit | 24 |
 | **[SPC & OEE Quality Dashboard](https://github.com/Muat01/spc-oee-quality-dashboard)** | X̄-R and I-MR charts with Western Electric rules, Cp/Cpk/Pp/Ppk, OEE loss waterfall and Pareto. Sample run: Cpk 1.34 against Ppk 1.06, OEE 70.6%. | Pandas · Plotly · Streamlit | 16 |
@@ -28,6 +29,7 @@ Unless a project says otherwise, **the data is simulated** and the parameters ar
 - **Simulation and operations research** — discrete-event models (SimPy), scheduling and optimisation (OR-Tools CP-SAT), queueing, capacity and bottleneck analysis.
 - **Predictive maintenance and digital twins** — condition monitoring, health indices, hazard models, and policy comparison on cost rather than on failure counts.
 - **Quality and productivity** — SPC, process capability, OEE loss analysis, work measurement.
+- **Carbon and compliance** — product carbon footprints built from shop-floor data, EU CBAM exposure, and abatement curves that price an improvement backlog twice: as engineering, and again after the carbon bill it avoids.
 
 Every project follows the same loop: **analyze → model → simulate → improve**, and reports its limitations next to its results.
 
